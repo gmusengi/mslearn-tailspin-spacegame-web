@@ -1,3 +1,4 @@
+[![Build Status](https://gilbertmusengi.visualstudio.com/Space%20Game%20-%20web%20-%20Pipeline/_apis/build/status/gmusengi.mslearn-tailspin-spacegame-web?branchName=master)](https://gilbertmusengi.visualstudio.com/Space%20Game%20-%20web%20-%20Pipeline/_build/latest?definitionId=7&branchName=master)
 
 # Contributing
 
